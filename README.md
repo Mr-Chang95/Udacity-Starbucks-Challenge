@@ -2,10 +2,10 @@
 
 ![Udacity Starbucks Capstone Project](https://user-images.githubusercontent.com/92649864/160221843-51d09d02-2267-4dba-b5bb-08536f6ad8e0.png)
 
-## Project Overview
+## Project Overview & Motivation
 Starbucks, one of the world’s most popular coffee shops, frequently provides offers to its customers through its rewards app to drive more sales. These offers can be merely an advertisement for a drink or an actual offer such as a discount or BOGO (buy one get one free).
 
-The goal of this project is to find some factors and build a machine learning(ML) that predicts what makes a customer complete an offer(regardless of the offer type). I am mostly interested in the demographics as I believe that they are bigger factors than the offer types.
+**Motivation :**The goal of this project is to find some factors and build a machine learning(ML) that predicts what makes a customer complete an offer(regardless of the offer type). I am mostly interested in the demographics as I believe that they are bigger factors than the offer types.
 
 Firstly, to best analyze the data thoroughly, Exploratory Data Analysis(EDA) is performed to find the data representations & characteristics. In this step, I will get to know the data better, as well as clean it. Secondly, with the data provided, I will answer the above questions with the help of charts and various ML models which will be fed the data from a merged dataset which consists of the following: portfolio, profile, transactional.
 
