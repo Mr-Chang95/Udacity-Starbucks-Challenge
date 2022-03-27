@@ -44,5 +44,8 @@ Here are the schema and explanation of each variable in the files:
 ## Brief Description Of Findings
 After having tried several different models, I found that the LGBM Classifier not only scored the highest f1-score with 0.58 which is the metric we have chosen to analyze the performance on test data, but also scored the highest accuracy. Therefore, I used this model to find the factors that can predict whether or not a customer will complete an offer. After fine tuning the model, I found that the top 3 most important features that impacts a customer completing an offer is the time taken to act on it, the customer's income and the year the customer became a member.
 
+## Medium Article
+For a more deatailed version of how I completed this project, please visit my [Medium article](https://medium.com/@mr.dcny/starbucks-capstone-project-udacity-16c65e59209c).
+
 ## Acknowledgements
 I would like to thanks [Udacity](https://www.udacity.com/) and Starbucks(https://www.starbucks.com/) for providing me with the datasets to use for this project.
